@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/securitySmallSpider/securitySmallSpider&show_icons=true&count_private=true&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/securitySmallSpider/securitySmallSpider&locale=cn" />
+</a>
+
 <!--
 **securitySmallSpider/securitySmallSpider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=securitySmallSpider
-)](https://github.com/securitySmallSpider/securitySmallSpide&theme=tokyonight)
 
 
