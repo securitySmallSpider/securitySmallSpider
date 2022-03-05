@@ -9,7 +9,7 @@ I'm a securitySmallSpider 安全小蜘蛛 I come from China 中国
 - 💬 认识一下吧，或许我们可以成为好兄弟 Let's get to know each other. Maybe we can be good brothers
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=securitySmallSpider&show_icons=true&theme=onedark&count_private=true&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=securitySmallSpider&show_icons=true&theme=tokyonight&count_private=true&locale=cn" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securitySmallSpider&locale=cn" />
 </a>
 
