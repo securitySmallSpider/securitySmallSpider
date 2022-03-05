@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/securitySmallSpider&show_icons=true&count_private=true&locale=cn" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/securitySmallSpider&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=securitySmallSpider&show_icons=true&count_private=true&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securitySmallSpider&locale=cn" />
 </a>
 
 <!--
