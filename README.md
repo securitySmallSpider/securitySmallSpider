@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm a securitySmallSpider 安全小蜘蛛 I come from China 中国
 
 **About me**
 
